@@ -1,26 +1,12 @@
-### OpenWrt golang latest version 1.23.2
+###passwall编译 openwrt23.05源码更改共版本
 
-### How to use 1.23.*
+### OpenWrt golang latest version 1.23.2  
+
+### 如何使用 
 
 ```shell
 rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
+git clone https://github.com/wixxm/WikjxWrt-golang feeds/packages/lang/golang
 ```
 
-### OpenWrt golang latest version 1.22.8
-
-### How to use 1.22.*
-
-```shell
-rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang -b 1.22 feeds/packages/lang/golang
-```
-
-### OpenWrt golang latest version 1.21.13
-
-### How to use 1.21.*
-
-```shell
-rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang -b 1.21 feeds/packages/lang/golang
 ```
