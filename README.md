@@ -1,7 +1,7 @@
 
-### OpenWrt golang latest version 1.23.7
+### OpenWrt golang  1.23.7
 
-### How to use 1.23.*
+### How to use 1.23.7
 
 ```shell
 rm -rf feeds/packages/lang/golang
