@@ -1,3 +1,0 @@
-# Configuration options moved to ../golang-bootstrap/Config.in
-# (upstream restructured lang/golang; this file is intentionally empty
-# and will be removed once the sync is verified.)
