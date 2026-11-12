@@ -1,6 +1,6 @@
-### OpenWrt golang  1.26
+### OpenWrt golang  1.27
 
-### How to use 1.26
+### How to use 1.27
 
 ```shell
 rm -rf feeds/packages/lang/golang
